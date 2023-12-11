@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Yooo! My name Adrian David Castro Tenemaya, and I am currently working as a full-time Data Engineer @ [Tacto GmbH](https://tacto.ai).
-I come from the fantastic country of Ecuador <img src="ecuador.png" width="32" />, lived in Italy <img src="italy.png" width="32" /> for many years and now living in München, Germany <img src="germany.png" width="32" />.
+I come from the fantastic country of Ecuador 🇪🇨, lived in Italy 🇮🇹 for many years and now living in München, Germany 🇩🇪.
 
 ### In a nutshell
 
@@ -12,3 +12,4 @@ I come from the fantastic country of Ecuador <img src="ecuador.png" width="32" /
 - 🔗 LinkedIn: [Adrian David Castro Tenemaya](https://www.linkedin.com/in/adriandcastrot/)
 - 🧑‍💻 Big fan of open source and active contributor to many projects
 - 📃 You can find more about me and my CV on my personal website: [adct.it](https://adct.it)
+- I speak: Italian 🇮🇹 (mothertongue), Spanish 🇪🇨 (mothertongue), English 🇬🇧 (C1), French 🇫🇷 (A2, will study again), German 🇩🇪 (A2, studying)
