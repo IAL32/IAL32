@@ -12,4 +12,4 @@ I come from the fantastic country of Ecuador 🇪🇨, lived in Italy 🇮🇹 f
 - 🔗 LinkedIn: [Adrian David Castro Tenemaya](https://www.linkedin.com/in/adriandcastrot/)
 - 🧑‍💻 Big fan of open source and active contributor to many projects
 - 📃 You can find more about me and my CV on my personal website: [adct.it](https://adct.it)
-- I speak: Italian 🇮🇹 (mothertongue), Spanish 🇪🇨 (mothertongue), English 🇬🇧 (C1), French 🇫🇷 (A2, will study again), German 🇩🇪 (A2, studying)
+- I speak: Italian 🇮🇹 (mothertongue), Spanish 🇪🇨 (mothertongue), English 🇬🇧 (C1), German 🇩🇪 (B1), French 🇫🇷 (A2, will study again), Portuguese 🇧🇷 (A2)
